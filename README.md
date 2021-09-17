@@ -13,3 +13,10 @@ Through this competition, you'll gain invaluable insight into volatility and fin
 ## Getting started
 
 In order to make Kagglers better prepared for this competition, Optiver's data scientists have created a [**tutorial notebook**](https://www.kaggle.com/jiashenliu/introduction-to-financial-concepts-and-data) debriefing competition data and relevant financial concepts of this trading challenge. Also, Optiver's online course can tell you more about financial market and market making.
+
+
+
+[
+Evaluation](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/evaluation)[Timeline](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/timeline)[Prizes](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/prizes)[Code Requirements](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/code-requirements)
+
+Submissions are evaluated using the root mean square percentage error, defined as:
